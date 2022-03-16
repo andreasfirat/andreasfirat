@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Azure Solutions.
-- 🌱 I’m currently learning IaC
+- 🌱 I’m currently learning IaC.
 - 📫 How to reach me: https://instagram.com/andreasfirat
 
 <!--
