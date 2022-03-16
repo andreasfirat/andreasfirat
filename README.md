@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Azure Solutions.
+- 🌱 I’m currently learning IaC
+- 📫 How to reach me: https://instagram.com/andreasfirat
+
 <!--
 **andreasfirat/andreasfirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
